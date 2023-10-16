@@ -1,4 +1,4 @@
-# 💠 Claen Code Study 
+# 💠 Clean Code Study 
 
 <br>
 ✨  주 1회 클린코드 서적을 읽고 정리하고  느낀점을 나눕니다. ✨ 
