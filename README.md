@@ -44,7 +44,7 @@
 
 | Date | Chapter | Reviewer | Link |
 | ------ | ------ |  ------ | ------ |
-| 2023년 10월 16일 ~ 2023년 10월 22일 | Ch.01 깨끗한코드| | |
+| 2023년 10월 16일 ~ 2023년 10월 22일 | Ch.01 깨끗한코드| @nongdamyang @seungmin2026210 @llocaluser |[1주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter01) |
 | 2023년 10월 23일 ~2023년 10월 29일 | Ch.02 의미있는 이름|| |
 | 2023년 10월 30일 ~2023년 11월 5일 | Ch.03 함수 || |
 |2023년 11월 6일 ~ 2023년 11월 12일 | Ch.04 주석| | |
