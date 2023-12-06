@@ -49,8 +49,8 @@
 | 2023년 10월 30일 ~2023년 11월 5일 | Ch.03 함수 | @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid040 |[3주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter03) |
 |2023년 11월 6일 ~ 2023년 11월 12일 | Ch.04 주석| @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid040 | [4주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter04) |
 | 2023년 11월 13일 ~ 2023년 11월 19일 | Ch.05 형식 맞추기| @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid040 | [5주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter05) |
-| 2023년 11월 20일 ~ 2023년 11월 26일 | Ch.06 객체와 자료구조 | @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid040 | [6주차] https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter06|
-|2023년 11월 27일 ~ 2023년 12월 3일| Ch.07 오류처리 | ||
+| 2023년 11월 20일 ~ 2023년 11월 26일 | Ch.06 객체와 자료구조 | @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid040 | [6주차] (https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter06) |
+|2023년 11월 27일 ~ 2023년 12월 3일| Ch.07 오류처리 | @seungmin2026210 <br> @llocaluser @heiioworid040 | [7주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter07)|
 | 2023년 12월 4일 ~ 2023년 12월 10일| Ch.08 경계 | ||
 | 2023년 12월 11일 ~ 2023년 12월 17일| Ch.09 단위 테스트 | ||
 | 2023년 12월 18일 ~ 2023년 12월 24일 | Ch.10 클래스 | ||
