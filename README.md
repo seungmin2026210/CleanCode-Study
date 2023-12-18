@@ -52,7 +52,7 @@
 | 2023년 11월 20일 ~ 2023년 11월 26일 | Ch.06 객체와 자료구조 | @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid040 | [6주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter06) |
 |2023년 11월 27일 ~ 2023년 12월 3일| Ch.07 오류처리 | @seungmin2026210 <br> @llocaluser @heiioworid040 | [7주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter07)|
 | 2023년 12월 4일 ~ 2023년 12월 10일| Ch.08 경계 | @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid040 | [8주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter08) |
-| 2023년 12월 11일 ~ 2023년 12월 17일| Ch.09 단위 테스트 | @nongdamyang @seungmin2026210 <br> @heiioworid040 | [9주차] (https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter07) |
+| 2023년 12월 11일 ~ 2023년 12월 17일| Ch.09 단위 테스트 | @nongdamyang @seungmin2026210 <br> @heiioworid040 | [9주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter07) |
 | 2023년 12월 18일 ~ 2023년 12월 24일 | Ch.10 클래스 | ||
 | 2023년 12월 25일 ~ 2023년 12월 31일 | Ch.11 시스템  | ||
 | 2024년 1월 1일 ~ 2024년 1월 7일 | Ch.12 창발성 | ||
