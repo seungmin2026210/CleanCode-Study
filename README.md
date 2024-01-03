@@ -54,7 +54,7 @@
 | 2023년 12월 4일 ~ 2023년 12월 10일| Ch.08 경계 | @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid040 | [8주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter08) |
 | 2023년 12월 11일 ~ 2023년 12월 17일| Ch.09 단위 테스트 | @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid040 | [9주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter07) |
 | 2023년 12월 18일 ~ 2023년 12월 24일 | Ch.10 클래스 |  @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid040 | [10주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter10)|
-| 2023년 12월 25일 ~ 2023년 12월 31일 | Ch.11 시스템  | ||
+| 2023년 12월 25일 ~ 2023년 12월 31일 | Ch.11 시스템  | @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid04 | [11주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter11) |
 | 2024년 1월 1일 ~ 2024년 1월 7일 | Ch.12 창발성 | ||
 | 2024년 1월 8일 ~ 2024년 1월 14일| Ch.13 동시성 | ||
 | 2024년 1월 15일 ~ 2024년 1월 21일| Ch.14 점진적인 개선 | ||
