@@ -57,7 +57,7 @@
 | 2023년 12월 25일 ~ 2023년 12월 31일 | Ch.11 시스템  | @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid04 | [11주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter11) |
 | 2024년 1월 1일 ~ 2024년 1월 7일 | Ch.12 창발성 | @nongdamyang @seungmin2026210 <br> @llocaluser @heiioworid04  | [12주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter12) |
 | 2024년 1월 8일 ~ 2024년 1월 14일| Ch.13 동시성 | @nongdamyang @seungmin2026210 <br> @llocaluser |[13주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter13)|
-| 2024년 1월 15일 ~ 2024년 1월 21일| Ch.14 점진적인 개선 | ||
+| 2024년 1월 15일 ~ 2024년 1월 21일| Ch.14 점진적인 개선 |  @nongdamyang @seungmin2026210 | [14주차](https://github.com/seungmin2026210/CleanCode-Study/tree/main/Chapter13) |
 | 2024년 1월 22일 ~ 2024년 1월 28일| Ch.15 JUnit 들여다보기 | | |
 | 2024년 1월 29일 ~ 2024년 2월 4일 | Ch.16 SerialDate 리팩터링 | ||
 | 2024년 2월 5일 ~ 2024년 2월 11일 | Ch.17 냄새와 휴리스틱 | ||
